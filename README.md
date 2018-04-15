@@ -1,0 +1,2 @@
+# otoscript
+otomatik script oluşturucu

@@ -17,3 +17,5 @@ Ben ana dizine script adında bir klasör oluşturup içerisine tüm scriptlerim
 banner yucel #şeklinde 
 
 ![enter image description here](https://raw.githubusercontent.com/yuceltoluyag/otoscript/master/screenshot.png)
+
+special thanks @Nils Kvist
